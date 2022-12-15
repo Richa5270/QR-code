@@ -1,0 +1,23 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richa5270/QR-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richa5270/QR-code/issues"
+  },
+  "homepage": "https://github.com/Richa5270/QR-code#readme",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
